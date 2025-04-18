@@ -24,10 +24,10 @@ This project uses machine learning and NLP techniques to predict mental health d
 ## 📈 Sample Outputs
 
 ### Confusion Matrix  
-Located in the `images/` folder: `matrix.png`
+![Confusion Matrix](images/matrix.png)
 
 ### F1-score per Class  
-Located in the `images/` folder: `f1.png`
+![F1 Score Chart](images/F1.png)
 
 ## 💡 SQL Query Examples
 
